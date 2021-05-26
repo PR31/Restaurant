@@ -1,0 +1,36 @@
+{
+  "resturant": [
+    {
+      "name": "Mirchi resturant",
+      "email": "mirchi@test.com",
+      "address": "Noida sector 60",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Burger King",
+      "address": "Noida sector 72",
+      "email": "bk@test.com"
+    },
+    {
+      "name": "kfc ",
+      "email": "kfc@test.com",
+      "address": "Noida Sector-18",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "PRANAV KUMAR",
+      "email": "pranavchp31@gmail.com",
+      "password": "pranav",
+      "id": 1
+    },
+    {
+      "name": "Jhon",
+      "email": "jhon@test.com",
+      "password": "12345",
+      "id": 2
+    }
+  ]
+}
